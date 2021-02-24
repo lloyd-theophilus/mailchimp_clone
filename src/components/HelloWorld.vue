@@ -3,7 +3,7 @@
     <div class="bg-yellow-400 px-4 py-4">
       <div class="md:max-w-6xl md:mx-auto md:flex md:items-center md:justify-between">
         <div>
-          <div class="hidden md:block flex space-x-4">
+          <div class=" md:block flex space-x-4">
             <a href="#" class="inline-block py-1 md:py-4 text-black mr-6 font-bold">Products</a>
             <a href="#" class="inline-block py-1 md:py-4 text-black font-bold hover:text-emerald-400 mr-6">Resources</a>
             <a href="#" class="inline-block py-1 md:py-4 text-black font-bold hover:text-emerald-400">Inspiration</a>
@@ -21,7 +21,7 @@
           </div>
         </div>
 
-        <div class="hidden md:block flex space-x-4">
+        <div class=" md:block flex space-x-4">
           <button type="submit" class="px-4 focus:outline-none focus:shadow-outline inline-block py-2 md:py-4 text-gray-500 hover:text-gray-100 mr-6">
           <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" viewBox="0 0 24 24" class="w-6 h-5"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
         </button>
@@ -515,7 +515,7 @@
 
       <div class="mb-10 mt-20">
      <h1 class="font-bold uppercase font-serif text-5xl mb-5">Do it all with Mailchimp</h1>
-      <p class="text-sm text-lg font-serif">Bring your audience data, marketing channels, and insights together so you can reach <br> your goals faster—all from a single platform.</p>
+      <p class=" text-lg font-serif">Bring your audience data, marketing channels, and insights together so you can reach <br> your goals faster—all from a single platform.</p>
       </div>
 
 <div class="min-w-screen min-h-screen bg-white flex items-center p-5 lg:p-10 overflow-hidden relative">
@@ -524,7 +524,7 @@
             <div class="w-full md:w-1/2 px-10">
                 <div class="mb-10">
                     <h1 class="font-bold font-serif uppercase text-2xl mb-5">Get your business online</h1>
-                    <p class="text-sm font-serif text-lg">Give your brand a home with a custom domain. Then create a website with built-in marketing tools to help you launch it.</p>
+                    <p class="font-serif text-lg">Give your brand a home with a custom domain. Then create a website with built-in marketing tools to help you launch it.</p>
                 </div>
                 <div>
                     <div class="inline-block align-bottom">
@@ -548,7 +548,7 @@
             <div class="w-full md:w-1/2 px-10">
                 <div class="mb-10">
                     <h1 class="font-bold font-serif uppercase text-2xl mb-5">Market your business</h1>
-                    <p class="text-sm font-serif text-lg">Send the right messages on all the right channels. Build emails, social ads, landing pages, postcards, and more from one place..</p>
+                    <p class=" font-serif text-lg">Send the right messages on all the right channels. Build emails, social ads, landing pages, postcards, and more from one place..</p>
                 </div>
                 <div>
                     <div class="inline-block align-bottom">
@@ -671,7 +671,7 @@
 
   <div class="mb-10 mt-20">
       <h1 class="font-bold uppercase text-black font-serif text-5xl mb-5">Grow with Mailchimp</h1>
-        <p class="text-sm text-lg font-serif">Our marketing platform helps brands like these build their thing and keep it growing.</p>
+        <p class="text-lg font-serif">Our marketing platform helps brands like these build their thing and keep it growing.</p>
         </div>
 
   <div class="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5 object-center">
@@ -715,7 +715,7 @@
           Learn More
         </p>
         <br><br>
-        <a href="#" class="text-gray-700 text-base text-indigo-600 font-serif"> Learn More</a>
+        <a href="#" class="text-base text-indigo-600 font-serif"> Learn More</a>
 
       </div>
     </div>
@@ -728,7 +728,7 @@
           You can connect all your tools to <br>Mailchimp and unlock even more features.
         </p>
         <br><br>
-     <a href="#" class="text-gray-700 text-base text-indigo-600 font-serif"> Learn More</a>
+     <a href="#" class="text-base text-indigo-600 font-serif"> Learn More</a>
 
       </div>
     </div>
@@ -742,7 +742,7 @@
           Take your marketing to the next level<br> when you work with a Mailchimp partner.
         </p>
         <br><br>
-        <a href="#" class="text-gray-700 text-base text-indigo-600 font-serif"> Browse partners</a>
+        <a href="#" class="text-base text-indigo-600 font-serif"> Browse partners</a>
       </div>
     </div>
   </div>
@@ -776,7 +776,7 @@
             <div class="w-full md:w-1/2 px-10">
                 <div class="mb-10">
                     <h1 class="font-bold font-serif uppercase text-2xl mb-5">Pave the way to purchase</h1>
-                    <p class="text-sm font-serif text-lg">Put your customers on personalized journeys that lead them to checkout.</p>
+                    <p class="font-serif text-lg">Put your customers on personalized journeys that lead them to checkout.</p>
                 </div>
             </div>
              <div class="w-full md:w-1/2 px-10 mb-10 md:mb-0">
@@ -863,7 +863,7 @@
 
  <div class="mb-10 mt-20">
      <h1 class="font-bold uppercase font-serif text-5xl mb-5">Resources to give you the <br> inside track</h1>
-      <p class="text-sm text-lg font-serif">Looking to get ahead? We have expert guidance, timely resources, and inspiring stories from <br>entrepreneurs who’ve been in your shoes. Business-growing shoes.</p>
+      <p class="text-lg font-serif">Looking to get ahead? We have expert guidance, timely resources, and inspiring stories from <br>entrepreneurs who’ve been in your shoes. Business-growing shoes.</p>
       </div>
 
      <div class="container mx-auto">
